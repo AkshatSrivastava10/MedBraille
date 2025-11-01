@@ -1,0 +1,9 @@
+streamlit==1.29.0
+pymupdf==1.23.8
+transformers==4.36.2
+pdf2image==1.16.3
+pytesseract==0.3.10
+gtts==2.4.0
+flashtext==2.7
+python-dotenv==1.0.0
+tensorflow==2.14.1
